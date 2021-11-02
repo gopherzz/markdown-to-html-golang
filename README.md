@@ -5,7 +5,7 @@
   package main
 
 import (
-	lexer "github.com/gopherzz/MTDGo/pkg/lexer"
+	"github.com/gopherzz/MTDGo/pkg/lexer"
 	"github.com/gopherzz/MTDGo/pkg/parser"
 	"fmt"
 )
